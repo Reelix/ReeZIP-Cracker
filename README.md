@@ -8,4 +8,6 @@ The Releases folder has been intentionally kept at the moment for those who don'
 
 Sample Dictionary File: [Here](https://github.com/praetorian-inc/Hob0Rules/raw/master/wordlists/rockyou.txt.gz) (50.8MB Compressed - 14.3m words - Will need to decompress to use)
 
+Sample Speed: +- 8,500 / second. If you run it inside Visual Studio, this will be reduced to about 100 / second. Rather compile, then run the EXE.
+
 ![Sample Speed](https://i.imgur.com/oTj1OWO.png)
