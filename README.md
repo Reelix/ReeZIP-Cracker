@@ -10,4 +10,6 @@ Sample Dictionary File: [Here](https://github.com/praetorian-inc/Hob0Rules/raw/m
 
 Sample Speed: +- 8,500 / second. If you run it inside Visual Studio, this will be reduced to about 100 / second. Rather compile, then run the EXE.
 
+Note that this application is for simpler things. If you're looking for far more intensive ZIP cracking, try [John The Ripper](http://www.openwall.com/john/)
+
 ![Sample Speed](https://i.imgur.com/oTj1OWO.png)
