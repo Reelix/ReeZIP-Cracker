@@ -1,6 +1,6 @@
 # ReeZIP-Cracker
 
-A very simple app that dictionary attacks .ZIP files. Made since I couldn't find a decent free alternative.
+A very simple GUI-based app that dictionary attacks .ZIP files. Made since I couldn't find a decent free GUI-based alternative.
 
 Makes use of Ionic.Zip.Reduced.dll v1.9.1.8 from https://dotnetzip.codeplex.com/
 
